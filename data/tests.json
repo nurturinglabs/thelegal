@@ -1,0 +1,170 @@
+{
+  "tests": [
+    {
+      "id": "test-full-001",
+      "title": "CLAT 2025 Mock Test 1",
+      "type": "full_length",
+      "duration": 120,
+      "totalQuestions": 75,
+      "totalMarks": 75,
+      "sections": [
+        {
+          "name": "Legal Reasoning",
+          "questions": 15,
+          "questionIds": ["q-lr-001", "q-lr-002", "q-lr-003", "q-lr-004", "q-lr-005", "q-lr-006", "q-lr-007", "q-lr-008", "q-lr-009", "q-lr-010", "q-lr-011", "q-lr-012", "q-lr-013", "q-lr-014", "q-lr-015"]
+        },
+        {
+          "name": "Logical Reasoning",
+          "questions": 15,
+          "questionIds": ["q-log-001", "q-log-002", "q-log-003", "q-log-004", "q-log-005", "q-log-006", "q-log-007", "q-log-008", "q-log-009", "q-log-010", "q-log-011", "q-log-012", "q-log-013", "q-log-014", "q-log-015"]
+        },
+        {
+          "name": "English Language",
+          "questions": 15,
+          "questionIds": ["q-eng-001", "q-eng-002", "q-eng-003", "q-eng-004", "q-eng-005", "q-eng-006", "q-eng-007", "q-eng-008", "q-eng-009", "q-eng-010", "q-eng-011", "q-eng-012", "q-eng-013", "q-eng-014", "q-eng-015"]
+        },
+        {
+          "name": "Quantitative Techniques",
+          "questions": 15,
+          "questionIds": ["q-quant-001", "q-quant-002", "q-quant-003", "q-quant-004", "q-quant-005", "q-quant-006", "q-quant-007", "q-quant-008", "q-quant-009", "q-quant-010", "q-quant-011", "q-quant-012", "q-quant-013", "q-quant-014", "q-quant-015"]
+        },
+        {
+          "name": "Current Affairs",
+          "questions": 15,
+          "questionIds": ["q-ca-001-1", "q-ca-001-2", "q-ca-001-3", "q-ca-001-4", "q-ca-001-5", "q-ca-002-1", "q-ca-002-2", "q-ca-002-3", "q-ca-002-4", "q-ca-002-5", "q-ca-003-1", "q-ca-003-2", "q-ca-003-3", "q-ca-003-4", "q-ca-003-5"]
+        }
+      ],
+      "instructions": [
+        "This is a full-length mock test simulating the actual CLAT exam.",
+        "Total duration: 2 hours (120 minutes)",
+        "Total questions: 75 (15 per section)",
+        "Marking scheme: +1 for correct, -0.25 for incorrect",
+        "No negative marking for unattempted questions",
+        "You can navigate between sections at any time",
+        "Use the question palette to mark questions for review"
+      ],
+      "difficulty": "medium",
+      "published": true
+    },
+    {
+      "id": "test-sec-lr-001",
+      "title": "Legal Reasoning Sectional Test 1",
+      "type": "sectional",
+      "duration": 20,
+      "totalQuestions": 15,
+      "totalMarks": 15,
+      "sections": [
+        {
+          "name": "Legal Reasoning",
+          "questions": 15,
+          "questionIds": ["q-lr-001", "q-lr-002", "q-lr-003", "q-lr-004", "q-lr-005", "q-lr-006", "q-lr-007", "q-lr-008", "q-lr-009", "q-lr-010", "q-lr-011", "q-lr-012", "q-lr-013", "q-lr-014", "q-lr-015"]
+        }
+      ],
+      "instructions": [
+        "This is a sectional test for Legal Reasoning.",
+        "Total duration: 20 minutes",
+        "Total questions: 15",
+        "Marking scheme: +1 for correct, -0.25 for incorrect",
+        "Focus on contract law, criminal law, and constitutional law concepts"
+      ],
+      "difficulty": "easy",
+      "published": true
+    },
+    {
+      "id": "test-sec-log-001",
+      "title": "Logical Reasoning Sectional Test 1",
+      "type": "sectional",
+      "duration": 20,
+      "totalQuestions": 15,
+      "totalMarks": 15,
+      "sections": [
+        {
+          "name": "Logical Reasoning",
+          "questions": 15,
+          "questionIds": ["q-log-001", "q-log-002", "q-log-003", "q-log-004", "q-log-005", "q-log-006", "q-log-007", "q-log-008", "q-log-009", "q-log-010", "q-log-011", "q-log-012", "q-log-013", "q-log-014", "q-log-015"]
+        }
+      ],
+      "instructions": [
+        "This is a sectional test for Logical Reasoning.",
+        "Total duration: 20 minutes",
+        "Total questions: 15",
+        "Marking scheme: +1 for correct, -0.25 for incorrect",
+        "Covers syllogisms, analogies, and critical reasoning"
+      ],
+      "difficulty": "medium",
+      "published": true
+    },
+    {
+      "id": "test-sec-eng-001",
+      "title": "English Language Sectional Test 1",
+      "type": "sectional",
+      "duration": 20,
+      "totalQuestions": 15,
+      "totalMarks": 15,
+      "sections": [
+        {
+          "name": "English Language",
+          "questions": 15,
+          "questionIds": ["q-eng-001", "q-eng-002", "q-eng-003", "q-eng-004", "q-eng-005", "q-eng-006", "q-eng-007", "q-eng-008", "q-eng-009", "q-eng-010", "q-eng-011", "q-eng-012", "q-eng-013", "q-eng-014", "q-eng-015"]
+        }
+      ],
+      "instructions": [
+        "This is a sectional test for English Language.",
+        "Total duration: 20 minutes",
+        "Total questions: 15",
+        "Marking scheme: +1 for correct, -0.25 for incorrect",
+        "Includes reading comprehension, grammar, and vocabulary"
+      ],
+      "difficulty": "easy",
+      "published": true
+    },
+    {
+      "id": "test-sec-quant-001",
+      "title": "Quantitative Techniques Sectional Test 1",
+      "type": "sectional",
+      "duration": 20,
+      "totalQuestions": 15,
+      "totalMarks": 15,
+      "sections": [
+        {
+          "name": "Quantitative Techniques",
+          "questions": 15,
+          "questionIds": ["q-quant-001", "q-quant-002", "q-quant-003", "q-quant-004", "q-quant-005", "q-quant-006", "q-quant-007", "q-quant-008", "q-quant-009", "q-quant-010", "q-quant-011", "q-quant-012", "q-quant-013", "q-quant-014", "q-quant-015"]
+        }
+      ],
+      "instructions": [
+        "This is a sectional test for Quantitative Techniques.",
+        "Total duration: 20 minutes",
+        "Total questions: 15",
+        "Marking scheme: +1 for correct, -0.25 for incorrect",
+        "Covers arithmetic, data interpretation, and basic algebra"
+      ],
+      "difficulty": "medium",
+      "published": true
+    },
+    {
+      "id": "test-sec-ca-001",
+      "title": "Current Affairs Sectional Test 1",
+      "type": "sectional",
+      "duration": 20,
+      "totalQuestions": 15,
+      "totalMarks": 15,
+      "sections": [
+        {
+          "name": "Current Affairs",
+          "questions": 15,
+          "questionIds": ["q-ca-001-1", "q-ca-001-2", "q-ca-001-3", "q-ca-001-4", "q-ca-001-5", "q-ca-002-1", "q-ca-002-2", "q-ca-002-3", "q-ca-002-4", "q-ca-002-5", "q-ca-003-1", "q-ca-003-2", "q-ca-003-3", "q-ca-003-4", "q-ca-003-5"]
+        }
+      ],
+      "instructions": [
+        "This is a sectional test for Current Affairs.",
+        "Total duration: 20 minutes",
+        "Total questions: 15",
+        "Marking scheme: +1 for correct, -0.25 for incorrect",
+        "Covers legal current affairs, constitutional developments, and important judgments"
+      ],
+      "difficulty": "medium",
+      "published": true
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "colleges": [
+    {
+      "rank": 1,
+      "id": "nlsiu-bangalore",
+      "name": "National Law School of India University",
+      "shortName": "NLSIU",
+      "location": "Bangalore, Karnataka",
+      "established": 1987,
+      "seats": 120,
+      "totalScore": 98,
+      "scores": {
+        "academicReputation": 100,
+        "facultyQuality": 98,
+        "placements": 100,
+        "infrastructure": 95,
+        "research": 98,
+        "alumniNetwork": 100,
+        "industryConnect": 96
+      },
+      "highlights": [
+        "India's first National Law University",
+        "Consistently ranked #1 among law schools",
+        "Highest median salary placements",
+        "Alumni in Supreme Court, top law firms, and Fortune 500"
+      ],
+      "avgPackage": "₹22-28 LPA",
+      "topRecruiters": ["AZB & Partners", "Cyril Amarchand Mangaldas", "Khaitan & Co", "Trilegal"],
+      "cutoff2024": "Rank 1-80",
+      "website": "https://www.nls.ac.in"
+    },
+    {
+      "rank": 2,
+      "id": "nalsar-hyderabad",
+      "name": "National Academy of Legal Studies and Research",
+      "shortName": "NALSAR",
+      "location": "Hyderabad, Telangana",
+      "established": 1998,
+      "seats": 120,
+      "totalScore": 95,
+      "scores": {
+        "academicReputation": 96,
+        "facultyQuality": 95,
+        "placements": 96,
+        "infrastructure": 94,
+        "research": 95,
+        "alumniNetwork": 94,
+        "industryConnect": 94
+      },
+      "highlights": [
+        "Known for exceptional litigation focus",
+        "Strong emphasis on legal research",
+        "Excellent moot court culture",
+        "Beautiful 50-acre campus"
+      ],
+      "avgPackage": "₹18-24 LPA",
+      "topRecruiters": ["AZB & Partners", "Shardul Amarchand", "JSA", "L&L Partners"],
+      "cutoff2024": "Rank 81-180",
+      "website": "https://www.nalsar.ac.in"
+    },
+    {
+      "rank": 3,
+      "id": "nlu-delhi",
+      "name": "National Law University Delhi",
+      "shortName": "NLU Delhi",
+      "location": "New Delhi",
+      "established": 2008,
+      "seats": 120,
+      "totalScore": 94,
+      "scores": {
+        "academicReputation": 95,
+        "facultyQuality": 96,
+        "placements": 95,
+        "infrastructure": 90,
+        "research": 94,
+        "alumniNetwork": 92,
+        "industryConnect": 96
+      },
+      "highlights": [
+        "Located in India's capital - proximity to Supreme Court",
+        "Conducts AILET (separate entrance exam)",
+        "Strong corporate law focus",
+        "Excellent internship opportunities in Delhi"
+      ],
+      "avgPackage": "₹18-25 LPA",
+      "topRecruiters": ["Cyril Amarchand", "AZB", "Khaitan", "S&R Associates"],
+      "cutoff2024": "AILET Top 100",
+      "website": "https://nludelhi.ac.in"
+    },
+    {
+      "rank": 4,
+      "id": "wbnujs-kolkata",
+      "name": "West Bengal National University of Juridical Sciences",
+      "shortName": "NUJS Kolkata",
+      "location": "Kolkata, West Bengal",
+      "established": 1999,
+      "seats": 116,
+      "totalScore": 92,
+      "scores": {
+        "academicReputation": 94,
+        "facultyQuality": 92,
+        "placements": 93,
+        "infrastructure": 88,
+        "research": 92,
+        "alumniNetwork": 93,
+        "industryConnect": 92
+      },
+      "highlights": [
+        "Strong intellectual culture",
+        "Excellent moot court achievements",
+        "Known for producing top litigators",
+        "Historic connection to Kolkata's legal tradition"
+      ],
+      "avgPackage": "₹16-22 LPA",
+      "topRecruiters": ["Trilegal", "Khaitan", "CAM", "Luthra & Luthra"],
+      "cutoff2024": "Rank 181-280",
+      "website": "https://www.nujs.edu"
+    },
+    {
+      "rank": 5,
+      "id": "nluj-jodhpur",
+      "name": "National Law University Jodhpur",
+      "shortName": "NLU Jodhpur",
+      "location": "Jodhpur, Rajasthan",
+      "established": 1999,
+      "seats": 132,
+      "totalScore": 89,
+      "scores": {
+        "academicReputation": 90,
+        "facultyQuality": 88,
+        "placements": 90,
+        "infrastructure": 92,
+        "research": 86,
+        "alumniNetwork": 88,
+        "industryConnect": 89
+      },
+      "highlights": [
+        "Beautiful campus with modern infrastructure",
+        "Strong IPR and corporate law specialization",
+        "Active student-run legal aid clinic",
+        "Growing alumni network in tier-1 firms"
+      ],
+      "avgPackage": "₹14-20 LPA",
+      "topRecruiters": ["AZB", "Trilegal", "Desai & Diwanji", "Nishith Desai"],
+      "cutoff2024": "Rank 281-400",
+      "website": "https://www.nlujodhpur.ac.in"
+    },
+    {
+      "rank": 6,
+      "id": "gnlu-gandhinagar",
+      "name": "Gujarat National Law University",
+      "shortName": "GNLU",
+      "location": "Gandhinagar, Gujarat",
+      "established": 2003,
+      "seats": 180,
+      "totalScore": 86,
+      "scores": {
+        "academicReputation": 87,
+        "facultyQuality": 85,
+        "placements": 87,
+        "infrastructure": 90,
+        "research": 84,
+        "alumniNetwork": 84,
+        "industryConnect": 86
+      },
+      "highlights": [
+        "Largest intake among top NLUs",
+        "State-of-the-art campus facilities",
+        "Strong focus on ADR and arbitration",
+        "Excellent legal tech initiatives"
+      ],
+      "avgPackage": "₹12-18 LPA",
+      "topRecruiters": ["Khaitan", "Shardul Amarchand", "Link Legal", "Economic Laws Practice"],
+      "cutoff2024": "Rank 401-550",
+      "website": "https://www.gnlu.ac.in"
+    },
+    {
+      "rank": 7,
+      "id": "rmlnlu-lucknow",
+      "name": "Ram Manohar Lohia National Law University",
+      "shortName": "RMLNLU",
+      "location": "Lucknow, Uttar Pradesh",
+      "established": 2005,
+      "seats": 160,
+      "totalScore": 83,
+      "scores": {
+        "academicReputation": 84,
+        "facultyQuality": 82,
+        "placements": 84,
+        "infrastructure": 85,
+        "research": 80,
+        "alumniNetwork": 82,
+        "industryConnect": 84
+      },
+      "highlights": [
+        "Rapidly improving placement records",
+        "Strong presence in UP judiciary",
+        "Affordable fee structure",
+        "Good proximity to Allahabad High Court"
+      ],
+      "avgPackage": "₹10-16 LPA",
+      "topRecruiters": ["Trilegal", "Khaitan", "Luthra", "Lakshmikumaran"],
+      "cutoff2024": "Rank 551-700",
+      "website": "https://www.rmlnlu.ac.in"
+    },
+    {
+      "rank": 8,
+      "id": "hnlu-raipur",
+      "name": "Hidayatullah National Law University",
+      "shortName": "HNLU",
+      "location": "Raipur, Chhattisgarh",
+      "established": 2003,
+      "seats": 180,
+      "totalScore": 81,
+      "scores": {
+        "academicReputation": 82,
+        "facultyQuality": 80,
+        "placements": 82,
+        "infrastructure": 83,
+        "research": 78,
+        "alumniNetwork": 80,
+        "industryConnect": 81
+      },
+      "highlights": [
+        "Known for ADR and tribal law expertise",
+        "Well-maintained green campus",
+        "Improving industry connections",
+        "Strong focus on access to justice"
+      ],
+      "avgPackage": "₹9-14 LPA",
+      "topRecruiters": ["Desai Diwanji", "Phoenix Legal", "L&L Partners", "IndusLaw"],
+      "cutoff2024": "Rank 701-850",
+      "website": "https://www.hnlu.ac.in"
+    },
+    {
+      "rank": 9,
+      "id": "nlu-odisha",
+      "name": "National Law University Odisha",
+      "shortName": "NLUO",
+      "location": "Cuttack, Odisha",
+      "established": 2009,
+      "seats": 120,
+      "totalScore": 79,
+      "scores": {
+        "academicReputation": 80,
+        "facultyQuality": 78,
+        "placements": 80,
+        "infrastructure": 80,
+        "research": 76,
+        "alumniNetwork": 78,
+        "industryConnect": 79
+      },
+      "highlights": [
+        "Proximity to Orissa High Court",
+        "Growing reputation in Eastern India",
+        "Strong clinical legal education",
+        "Improving placement statistics"
+      ],
+      "avgPackage": "₹8-13 LPA",
+      "topRecruiters": ["Khaitan", "L&L Partners", "S&R Associates", "Argus Partners"],
+      "cutoff2024": "Rank 851-1000",
+      "website": "https://www.nluo.ac.in"
+    },
+    {
+      "rank": 10,
+      "id": "nlu-assam",
+      "name": "National Law University and Judicial Academy Assam",
+      "shortName": "NLUJA",
+      "location": "Guwahati, Assam",
+      "established": 2009,
+      "seats": 120,
+      "totalScore": 77,
+      "scores": {
+        "academicReputation": 78,
+        "facultyQuality": 76,
+        "placements": 78,
+        "infrastructure": 78,
+        "research": 74,
+        "alumniNetwork": 76,
+        "industryConnect": 77
+      },
+      "highlights": [
+        "Gateway to North-East legal education",
+        "Focus on environmental and tribal law",
+        "Connected to Gauhati High Court",
+        "Scholarships for North-East students"
+      ],
+      "avgPackage": "₹7-12 LPA",
+      "topRecruiters": ["AZB", "Trilegal", "Argus Partners", "DSK Legal"],
+      "cutoff2024": "Rank 1001-1150",
+      "website": "https://www.nluassam.ac.in"
+    }
+  ],
+  "rankingMethodology": {
+    "title": "How We Rank NLUs",
+    "description": "Our ranking is based on a comprehensive analysis of multiple factors that matter most to law students and legal professionals. Each parameter is scored on a scale of 0-100, and the final score is a weighted average.",
+    "parameters": [
+      {
+        "name": "Academic Reputation",
+        "weight": 20,
+        "description": "Based on peer assessments, NIRF rankings, accreditations, and recognition in the legal community. Includes faculty publications and academic achievements."
+      },
+      {
+        "name": "Faculty Quality",
+        "weight": 15,
+        "description": "Considers faculty-student ratio, qualifications, industry experience, and research output. Visiting faculty from courts and top law firms also adds value."
+      },
+      {
+        "name": "Placements",
+        "weight": 20,
+        "description": "Analyzed through average and median salary packages, top recruiters, percentage of students placed, and diversity of placement opportunities (law firms, corporates, litigation, PSUs)."
+      },
+      {
+        "name": "Infrastructure",
+        "weight": 10,
+        "description": "Evaluates library resources (including digital), moot court halls, hostel facilities, sports amenities, and overall campus quality."
+      },
+      {
+        "name": "Research Output",
+        "weight": 15,
+        "description": "Measured by law journals published, student research papers, funded projects, and contribution to legal scholarship and policy."
+      },
+      {
+        "name": "Alumni Network",
+        "weight": 10,
+        "description": "Strength and engagement of alumni in judiciary, top law firms, government, and academia. Includes alumni mentorship programs and networking opportunities."
+      },
+      {
+        "name": "Industry Connect",
+        "weight": 10,
+        "description": "Partnerships with law firms, corporate legal departments, and courts. Quality of internship opportunities and practical exposure provided."
+      }
+    ],
+    "sources": [
+      "NIRF Law Rankings 2024",
+      "Bar Council of India data",
+      "Placement reports from official college websites",
+      "Legal industry surveys (BW Legal World, Careers360)",
+      "Student and alumni feedback aggregation"
+    ],
+    "disclaimer": "Rankings are indicative and based on publicly available data. Individual experiences may vary. We recommend visiting campuses and speaking with current students before making your decision."
+  }
+}
